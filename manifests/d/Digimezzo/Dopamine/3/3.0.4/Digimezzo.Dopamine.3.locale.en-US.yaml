@@ -21,3 +21,6 @@ Tags:
 - player
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
+ReleaseNotes: "Update to version 3.0.4"
+ReleaseNotesUrl: "https://github.com/digimezzo/dopamine/releases"
+ReleaseDate: 2024-04-6
